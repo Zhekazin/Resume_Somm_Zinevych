@@ -35,7 +35,7 @@ body {
 }
 
 .contacts-container {
-    margin: 60px 40px 0;
+    margin: 40px 40px 0;
     color: #ffffff;
 }
 
@@ -70,7 +70,7 @@ body {
 
 /*-----------------------------------Main------------------------------*/
 .tech-skills-container {
-    margin: 55px 40px 0;
+    margin: 40px 40px 0;
     color: #ffffff;
 }
 
@@ -99,13 +99,13 @@ body {
 }
 
 .soft-skills-container {
-    margin: 55px 40px 0;
+    margin: 40px 40px 0;
     color: #ffffff;
 }
 
 
 .info-container {
-    margin-bottom: 65px;
+    margin-bottom: 35px;
 }
 
 .profession {
@@ -126,6 +126,8 @@ body {
     font-weight: 400;
     line-height: 24px;
     margin-top: 24px;
+    text-indent: 2em; /* відступ першого рядка */
+    margin-bottom: 16px; /* відступ між параграфами */
 }
 
 .about-me-title {
@@ -136,7 +138,7 @@ body {
 }
 
 .project-container {
-    margin-bottom: 55px;
+    margin-bottom: 65px;
 }
 
 .projects-item {
